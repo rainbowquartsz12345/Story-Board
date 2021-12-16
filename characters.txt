@@ -3,3 +3,4 @@ Characters
 Lumine
 Aether
 Paimon
+Venti
